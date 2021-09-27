@@ -1,0 +1,163 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    border: 2px solid yellow;
+    font-family: Montserrat;
+    background-color: #f5f7fa;
+    padding: 40px;
+}
+
+
+.wrapper {
+    border: 2px solid gray;
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+}
+
+
+.sidebar {
+    border: 2px solid green;
+    width: 370px;
+}
+
+
+.about-me-container {
+    border: 2px solid red;
+    margin: 90px;
+}
+
+
+.info-container {
+    border: 2px solid olive;
+    margin-bottom: 65px;
+}
+
+
+.profession {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+
+.name {
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+
+
+.description {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 413px;
+}
+
+
+.projects-container {
+    border: 2px solid rebeccapurple;
+    margin-bottom: 55px;
+}
+
+
+.about-me-title {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+
+
+.projects-item {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-left: 17px;
+}
+
+
+.projects-link {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+
+.dots {
+    color: #595959;
+    font-weight: 100;
+}
+
+
+.tech-name {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.work-experience-container {
+    border: 2px solid grey;
+    margin-bottom: 55px;
+}
+
+
+.company {
+    border: 2px solid darkblue;
+    margin-bottom: 25px;
+}
+
+
+.profession-title {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+
+.profession-company {
+    color: #ff9045;
+}
+
+
+.profession-time {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+.profession-divider {
+    color: #000000;
+}
+
+
+.profession-duties-item {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 17px;
+}
+
+
+
+
+
